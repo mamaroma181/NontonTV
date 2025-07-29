@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=143
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/index.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.HD.id" group-title="National TV" ch-number="2" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV HD
+#EXTINF:-1 tvg-id="MNCTV.HD.id" group-title="National TV" ch-number="2" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=106
@@ -27,7 +27,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=128
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/index.m3u8
 
-#EXTINF:-1 tvg-id="Sindo.News.TV.id" group-title="News" ch-number="5" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",Sindo News TV
+#EXTINF:-1 tvg-id="Sindo.News.TV.HD.id" group-title="News" ch-number="5" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",Sindo News TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=115
@@ -63,7 +63,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|use
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="ANTV.vn" group-title="National TV" ch-number="11" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" group-title="National TV" ch-number="11" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=22
@@ -75,47 +75,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=57
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/index.m3u8
 
-#EXTINF:-1 tvg-id="tvOne.id" group-title="National TV" ch-number="13" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=18
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/index.m3u8
-
-#EXTINF:-1 tvg-id="Kompas.TV.id" group-title="National TV" ch-number="14" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=55
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/index.m3u8
-
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=4
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/index.m3u8
-
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (DensTV)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/densgo/index.drm?id=142
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (FMX)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
-
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (ChannelFeed)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (IndiHomeTV)
+#EXTINF:-1 tvg-id="tvOne.id" group-title="National TV" ch-number="13" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",tvOne HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -123,7 +83,19 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/tvone720/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="BTV.id" group-title="News" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV HD
+#EXTINF:-1 tvg-id="Kompas.TV.id" group-title="National TV" ch-number="14" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=55
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" group-title="News" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=41
@@ -185,7 +157,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=64
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/index.m3u8
 
-#EXTINF:-1 tvg-id="Tawaf.TV.id" group-title="Religion" ch-number="30" tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-m.png",Tawaf TV HD
+#EXTINF:-1 tvg-id="Tawaf.TV.id" group-title="Religion" ch-number="30" tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-m.png",Tawaf TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=2
@@ -247,7 +219,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="Celestial.Movies.id" group-title="Movies" ch-number="46" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png",Celestial Movies HD
+#EXTINF:-1 tvg-id="Celestial.Movies.id" group-title="Movies" ch-number="46" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=32
@@ -296,12 +268,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/index.m3u8
 
 #EXTINF:-1 tvg-id="Mentari.TV.id" group-title="Kids" ch-number="56" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png",Mentari TV HD
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/densgo/index.drm?id=142
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="Kids.TV.HD.id" group-title="Kids" ch-number="58" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV HD
+#EXTINF:-1 tvg-id="Kids.TV.HD.id" group-title="Kids" ch-number="58" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=135
@@ -333,7 +307,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd|user-agen
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="Nick.Junior.id" group-title="Kids" ch-number="63" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr.
+#EXTINF:-1 tvg-id="Nick.Junior.id" group-title="Kids" ch-number="63" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr. HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=118
@@ -405,7 +379,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=123
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/index.m3u8
 
-#EXTINF:-1 tvg-id="KIX.id" group-title="Entertainment" ch-number="79" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX HD
+#EXTINF:-1 tvg-id="KIX.id" group-title="Entertainment" ch-number="79" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=37
@@ -429,7 +403,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=119
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.id" group-title="Entertainment" ch-number="83" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime HD
+#EXTINF:-1 tvg-id="Lifetime.id" group-title="Entertainment" ch-number="83" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=46
@@ -441,7 +415,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="Vision.Prime.HD.id" group-title="Entertainment" ch-number="91" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime HD
+#EXTINF:-1 tvg-id="Vision.Prime.HD.id" group-title="Entertainment" ch-number="91" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=130
@@ -495,7 +469,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="Crime.Investigation.id" group-title="Knowledge" ch-number="101" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png",Crime Investigation HD
+#EXTINF:-1 tvg-id="Crime.Investigation.id" group-title="Knowledge" ch-number="101" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=70
@@ -519,7 +493,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=132
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/index.m3u8
 
-#EXTINF:-1 tvg-id="History.id" group-title="Knowledge" ch-number="110" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History HD
+#EXTINF:-1 tvg-id="History.id" group-title="Knowledge" ch-number="110" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=27
@@ -561,7 +535,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=124
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/index.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars.4.HD.id" group-title="Sports" ch-number="124" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png",Sportstars 4 HD
+#EXTINF:-1 tvg-id="Sportstars.4.id" group-title="Sports" ch-number="124" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png",Sportstars 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=45
@@ -625,13 +599,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-id="IDX.HD.id" group-title="News" ch-number="142" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png",IDX Channel HD
+#EXTINF:-1 tvg-id="IDX.HD.id" group-title="News" ch-number="142" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png",IDX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=19
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC.World.News.id" group-title="News" ch-number="144" tvg-logo="https://www.visionplus.id/images/repository/660/660-LOGO-m.png",BBC World News HD
+#EXTINF:-1 tvg-id="BBC.World.News.id" group-title="News" ch-number="144" tvg-logo="https://www.visionplus.id/images/repository/660/660-LOGO-m.png",BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=26
@@ -649,13 +623,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd|user-ag
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=48
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX.News.id" group-title="News" ch-number="147" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",FOX News HD
+#EXTINF:-1 tvg-id="FOX.News.id" group-title="News" ch-number="147" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",FOX News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=38
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/index.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.id" group-title="News" ch-number="148" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-m.png",Bloomberg HD
+#EXTINF:-1 tvg-id="Bloomberg.id" group-title="News" ch-number="148" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-m.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=7
@@ -673,7 +647,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=50
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/index.m3u8
 
-#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Religion" ch-number="154" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png",Reformed 21 HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Religion" ch-number="154" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png",Reformed 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=50
@@ -685,7 +659,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="Music.TV.HD.id" group-title="Music" ch-number="159" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV HD
+#EXTINF:-1 tvg-id="Music.TV.HD.id" group-title="Music" ch-number="159" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=134
@@ -721,7 +695,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=131
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/index.m3u8
 
-#EXTINF:-1 tvg-id="Al.Jazeera.English.id" group-title="News" ch-number="166" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png",Al Jazeera English HD
+#EXTINF:-1 tvg-id="Al.Jazeera.English.id" group-title="News" ch-number="166" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png",Al Jazeera English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=74
@@ -745,7 +719,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/densgo/index.drm?id=27
 https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="Channel.News.Asia.id" group-title="News" ch-number="170" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-m.png",Channel News Asia HD
+#EXTINF:-1 tvg-id="Channel.News.Asia.id" group-title="News" ch-number="170" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-m.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=30
@@ -763,7 +737,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=49
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.Documentary.id" group-title="Knowledge" ch-number="173" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png",CGTN Documentary HD
+#EXTINF:-1 tvg-id="CGTN.Documentary.id" group-title="Knowledge" ch-number="173" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=35
@@ -823,7 +797,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd|user-agen
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemeshield1-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="nhk.world.Japan.id" group-title="Entertainment" ch-number="183" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World Japan HD
+#EXTINF:-1 tvg-id="nhk.world.Japan.id" group-title="Entertainment" ch-number="183" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=29
@@ -841,7 +815,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="Arirang.id" group-title="Entertainment" ch-number="186" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png",Arirang HD
+#EXTINF:-1 tvg-id="Arirang.id" group-title="Entertainment" ch-number="186" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=34
