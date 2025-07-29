@@ -87,11 +87,41 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=55
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/index.m3u8
 
-#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/visionplus/index.drm?id=4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (DensTV)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malaysiastreamingtv.my.id/densgo/index.drm?id=142
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (FMX)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
+
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
+https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (ChannelFeed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (IndiHomeTV)
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/tvone720/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="BTV.id" group-title="News" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
